@@ -33,7 +33,7 @@
         android:id="@+id/button"
         android:layout_width="147dp"
         android:layout_height="73dp"
-        android:layout_marginTop="168dp"
+        android:layout_marginTop="128dp"
         android:text="@string/сhoose_сity"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
