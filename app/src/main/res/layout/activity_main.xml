@@ -33,9 +33,10 @@
         android:id="@+id/button"
         android:layout_width="147dp"
         android:layout_height="73dp"
-        android:layout_marginTop="128dp"
+        android:layout_marginTop="180dp"
         android:text="@string/сhoose_сity"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.556"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
