@@ -9,4 +9,5 @@
     <string name="show_additionally">Show additionally</string>
     <string name="speed_wind">Speed wind</string>
     <string name="pressure">Pressure</string>
+    <string name="temp">Temp</string>
 </resources>
