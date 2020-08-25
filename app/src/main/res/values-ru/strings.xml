@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeekBrains Погода</string>
+    <string name="weather_forecast">Прогноз погоды</string>
+    <string name="сhoose_сity">Выбрать город</string>
+    <string name="enter_city">Введите город</string>
+    <string name="moscow">Москва</string>
+    <string name="sant_petersburg">Санкт-Петербург</string>
+    <string name="samara">Самара</string>
+    <string name="show_additionally">Дополнительно показать</string>
+    <string name="speed_wind">Скорость ветра</string>
+    <string name="pressure">Давление</string>
+    <string name="temp">Темпиратура</string>
+</resources>
